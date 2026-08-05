@@ -206,12 +206,9 @@ eyes_on_tigers/
 
 ## 8. Project Roadmap
 
-- [x] **Phase 1: MVP Release (Rebranded)**
-  - Rebrand all database and telemetry paths to Eyes on Tigers (`eyes_on_tigers`/`eot`).
-  - Implement mathematical AHP weights and SHAP explanations.
-- [ ] **Phase 2: Live GIS Integration**
+- [ ] **Phase 1: Live GIS Integration**
   - Connect dynamic APIs to pull real-time NDVI and LST from Google Earth Engine (GEE).
   - Deploy standard webhooks for Automated Alerting.
-- [ ] **Phase 3: Surveillance Edge Deployment**
+- [ ] **Phase 2: Surveillance Edge Deployment**
   - Port Module A to low-power edge computing devices (drones, smart camera traps).
   - Integrate LoRaWAN telemetry network for real-time ranger alerts.
