@@ -1,0 +1,154 @@
+state,year,fund_type,funds_lakhs,funds_lakhs_imputed,was_imputed,has_conflict
+Andhra Pradesh,2011,total_including_tpf,154.406,154.406,False,False
+Andhra Pradesh,2012,total_including_tpf,404.8904,404.8904,False,True
+Andhra Pradesh,2013,state_allocation,211.78,211.78,False,True
+Andhra Pradesh,2013,total_including_tpf,211.7804,211.7804,False,True
+Andhra Pradesh,2014,state_allocation,184.14,184.14,False,True
+Andhra Pradesh,2014,total_including_tpf,184.141,184.141,False,True
+Andhra Pradesh,2015,state_allocation,0.0,0.0,False,True
+Andhra Pradesh,2015,total_including_tpf,0.0,0.0,False,True
+Andhra Pradesh,2018,central_share,217.992,217.992,False,False
+Andhra Pradesh,2019,central_share,114.48,114.48,False,False
+Andhra Pradesh,2020,central_share,266.51,266.51,False,False
+Arunachal Pradesh,2011,total_including_tpf,236.7857,236.7857,False,False
+Arunachal Pradesh,2012,total_including_tpf,420.0872,420.0872,False,False
+Arunachal Pradesh,2013,total_including_tpf,737.0405000000001,737.0405000000001,False,False
+Arunachal Pradesh,2014,total_including_tpf,658.4259999999999,658.4259999999999,False,False
+Arunachal Pradesh,2015,total_including_tpf,429.539,429.539,False,False
+Arunachal Pradesh,2018,central_share,929.762,929.762,False,False
+Arunachal Pradesh,2019,central_share,846.31,846.31,False,False
+Arunachal Pradesh,2020,central_share,803.76,803.76,False,False
+Assam,2011,total_including_tpf,947.5088000000001,947.5088000000001,False,False
+Assam,2012,total_including_tpf,373.894,373.894,False,False
+Assam,2013,total_including_tpf,807.9825,807.9825,False,False
+Assam,2014,total_including_tpf,1509.389,1509.389,False,False
+Assam,2015,total_including_tpf,1425.413,1425.413,False,False
+Assam,2018,central_share,1919.624,1919.624,False,False
+Assam,2019,central_share,2198.76,2198.76,False,False
+Assam,2020,central_share,2513.9,2513.9,False,False
+Bihar,2011,total_including_tpf,172.193,172.193,False,False
+Bihar,2012,total_including_tpf,311.064,311.064,False,False
+Bihar,2013,total_including_tpf,284.773,284.773,False,False
+Bihar,2014,total_including_tpf,317.096,317.096,False,False
+Bihar,2015,total_including_tpf,223.55051,223.55051,False,False
+Bihar,2018,central_share,570.897,570.897,False,False
+Bihar,2019,central_share,562.84,562.84,False,False
+Bihar,2020,central_share,628.89,628.89,False,False
+Chhattisgarh,2011,total_including_tpf,702.726,702.726,False,False
+Chhattisgarh,2012,total_including_tpf,532.4624,532.4624,False,False
+Chhattisgarh,2013,total_including_tpf,539.6379999999999,539.6379999999999,False,False
+Chhattisgarh,2014,total_including_tpf,609.827,609.827,False,False
+Chhattisgarh,2015,total_including_tpf,398.945,398.945,False,False
+Chhattisgarh,2018,central_share,536.135,536.135,False,False
+Chhattisgarh,2019,central_share,358.53,358.53,False,False
+Chhattisgarh,2020,central_share,471.15999999999997,471.15999999999997,False,False
+Jharkhand,2011,total_including_tpf,156.3465,156.3465,False,False
+Jharkhand,2012,total_including_tpf,107.44023,107.44023,False,False
+Jharkhand,2013,total_including_tpf,251.168,251.168,False,False
+Jharkhand,2014,total_including_tpf,199.08,199.08,False,False
+Jharkhand,2015,total_including_tpf,47.9847,47.9847,False,False
+Jharkhand,2018,central_share,367.0,367.0,False,False
+Jharkhand,2019,central_share,1432.07,1432.07,False,False
+Jharkhand,2020,central_share,128.453,128.453,False,False
+Karnataka,2011,total_including_tpf,1830.6496000000002,1830.6496000000002,False,False
+Karnataka,2012,total_including_tpf,933.5311,933.5311,False,False
+Karnataka,2013,total_including_tpf,1985.0698,1985.0698,False,False
+Karnataka,2014,total_including_tpf,1565.7726,1565.7726,False,False
+Karnataka,2015,total_including_tpf,1378.1943999999999,1378.1943999999999,False,False
+Karnataka,2018,central_share,2267.428,2267.428,False,False
+Karnataka,2019,central_share,2252.03,2252.03,False,False
+Karnataka,2020,central_share,2118.005,2118.005,False,False
+Kerala,2011,total_including_tpf,429.77,429.77,False,False
+Kerala,2012,total_including_tpf,514.835,514.835,False,False
+Kerala,2013,total_including_tpf,479.672,479.672,False,False
+Kerala,2014,total_including_tpf,517.5351,517.5351,False,False
+Kerala,2015,total_including_tpf,396.601,396.601,False,False
+Kerala,2018,central_share,653.03,653.03,False,False
+Kerala,2019,central_share,607.0699999999999,607.0699999999999,False,False
+Kerala,2020,central_share,402.88,402.88,False,False
+Madhya Pradesh,2011,total_including_tpf,5162.7112,5162.7112,False,True
+Madhya Pradesh,2012,total_including_tpf,5772.3638,5772.3638,False,True
+Madhya Pradesh,2013,total_including_tpf,4796.138,4796.138,False,True
+Madhya Pradesh,2014,total_including_tpf,4335.1182,4335.1182,False,True
+Madhya Pradesh,2015,total_including_tpf,1421.007,1421.007,False,True
+Madhya Pradesh,2018,central_share,5343.889999999999,5343.889999999999,False,True
+Madhya Pradesh,2019,central_share,3501.91,3501.91,False,True
+Madhya Pradesh,2020,central_share,2551.26,2551.26,False,True
+Maharashtra,2011,total_including_tpf,3341.5235,3341.5235,False,False
+Maharashtra,2012,total_including_tpf,616.3911499999999,616.3911499999999,False,False
+Maharashtra,2013,total_including_tpf,3021.6922999999997,3021.6922999999997,False,False
+Maharashtra,2014,total_including_tpf,3078.9788,3078.9788,False,False
+Maharashtra,2015,total_including_tpf,3558.7655,3558.7655,False,False
+Maharashtra,2018,central_share,10322.75,10322.75,False,False
+Maharashtra,2019,central_share,6318.36,6318.36,False,False
+Maharashtra,2020,central_share,2436.84,2436.84,False,False
+Mizoram,2011,total_including_tpf,225.288,225.288,False,False
+Mizoram,2012,total_including_tpf,468.31,468.31,False,False
+Mizoram,2013,total_including_tpf,233.68,233.68,False,False
+Mizoram,2014,total_including_tpf,232.1896,232.1896,False,False
+Mizoram,2015,total_including_tpf,187.9845,187.9845,False,False
+Mizoram,2018,central_share,318.842,318.842,False,False
+Mizoram,2019,central_share,337.7,337.7,False,False
+Mizoram,2020,central_share,161.53,161.53,False,False
+Nagaland,2018,central_share,24.8625,24.8625,False,False
+Nagaland,2019,central_share,0.0,0.0,False,False
+Nagaland,2020,central_share,0.0,0.0,False,False
+Odisha,2011,total_including_tpf,555.0761,555.0761,False,False
+Odisha,2012,total_including_tpf,163.756,163.756,False,False
+Odisha,2013,total_including_tpf,748.193,748.193,False,False
+Odisha,2014,total_including_tpf,707.3885,707.3885,False,False
+Odisha,2015,total_including_tpf,544.80052,544.80052,False,False
+Odisha,2018,central_share,1022.322,1022.322,False,False
+Odisha,2019,central_share,1303.32,1303.32,False,False
+Odisha,2020,central_share,680.0699999999999,680.0699999999999,False,False
+Rajasthan,2011,total_including_tpf,67.21,67.21,False,False
+Rajasthan,2012,total_including_tpf,4090.567,4090.567,False,False
+Rajasthan,2013,total_including_tpf,512.848,512.848,False,False
+Rajasthan,2014,total_including_tpf,627.192,627.192,False,False
+Rajasthan,2015,total_including_tpf,1257.808,1257.808,False,False
+Rajasthan,2018,central_share,791.8299999999999,791.8299999999999,False,False
+Rajasthan,2018,release_amount,276.69,276.69,False,False
+Rajasthan,2019,central_share,1203.19,1203.19,False,False
+Rajasthan,2019,release_amount,368.5,368.5,False,False
+Rajasthan,2020,central_share,1008.8899999999999,1008.8899999999999,False,False
+Rajasthan,2020,release_amount,262.28,262.28,False,False
+Tamil Nadu,2011,total_including_tpf,605.9639999999999,605.9639999999999,False,False
+Tamil Nadu,2012,total_including_tpf,445.983,445.983,False,False
+Tamil Nadu,2013,total_including_tpf,753.675,753.675,False,False
+Tamil Nadu,2014,total_including_tpf,864.316,864.316,False,False
+Tamil Nadu,2015,total_including_tpf,1950.17128,1950.17128,False,False
+Tamil Nadu,2018,central_share,2366.823,2366.823,False,False
+Tamil Nadu,2019,central_share,1586.91,1586.91,False,False
+Tamil Nadu,2020,central_share,1336.1399999999999,1336.1399999999999,False,False
+Telangana,2011,total_including_tpf,0.0,0.0,False,False
+Telangana,2012,total_including_tpf,0.0,0.0,False,False
+Telangana,2013,total_including_tpf,0.0,0.0,False,False
+Telangana,2014,total_including_tpf,0.0,0.0,False,False
+Telangana,2015,total_including_tpf,86.0144,86.0144,False,False
+Telangana,2018,central_share,1115.65,1115.65,False,False
+Telangana,2019,central_share,444.95000000000005,444.95000000000005,False,False
+Telangana,2020,central_share,351.96999999999997,351.96999999999997,False,False
+Uttar Pradesh,2011,total_including_tpf,446.1258,446.1258,False,False
+Uttar Pradesh,2012,total_including_tpf,334.055,334.055,False,False
+Uttar Pradesh,2013,total_including_tpf,525.876,525.876,False,False
+Uttar Pradesh,2014,total_including_tpf,760.9283,760.9283,False,False
+Uttar Pradesh,2015,total_including_tpf,624.5463,624.5463,False,False
+Uttar Pradesh,2018,central_share,685.336,685.336,False,False
+Uttar Pradesh,2019,central_share,1242.49,1242.49,False,False
+Uttar Pradesh,2020,central_share,923.29,923.29,False,False
+Uttarakhand,2011,total_including_tpf,399.76,399.76,False,False
+Uttarakhand,2012,total_including_tpf,160.69,160.69,False,False
+Uttarakhand,2013,total_including_tpf,377.689,377.689,False,False
+Uttarakhand,2014,total_including_tpf,391.1941,391.1941,False,False
+Uttarakhand,2015,total_including_tpf,683.9853800000001,683.9853800000001,False,False
+Uttarakhand,2018,central_share,1417.26,1417.26,False,False
+Uttarakhand,2019,central_share,2289.1800000000003,2289.1800000000003,False,False
+Uttarakhand,2020,central_share,1671.3,1671.3,False,False
+West Bengal,2011,total_including_tpf,157.66,157.66,False,False
+West Bengal,2012,total_including_tpf,404.916,404.916,False,False
+West Bengal,2013,total_including_tpf,347.81,347.81,False,False
+West Bengal,2014,total_including_tpf,596.8825,596.8825,False,False
+West Bengal,2015,total_including_tpf,376.50781,376.50781,False,False
+West Bengal,2018,central_share,719.01,719.01,False,False
+West Bengal,2019,central_share,758.47,758.47,False,False
+West Bengal,2020,central_share,333.96,333.96,False,False

@@ -1,0 +1,21 @@
+landscape,state,year,population,source_file,has_conflict,was_imputed,population_imputed
+Central India,Central India,2006,601.0,tiger_population_06-18,False,False,601.0
+Central India,Central India,2010,601.0,tiger_population_06-18,False,False,601.0
+Central India,Central India,2014,688.0,tiger_population_06-18,False,False,688.0
+Central India,Central India,2018,1033.0,tiger_population_06-18,False,False,1033.0
+North Eastern Hills and Brahmaputra Flood Plains,North East Hills and Brahmaputra,2006,100.0,tiger_population_06-18,False,False,100.0
+North Eastern Hills and Brahmaputra Flood Plains,North East Hills and Brahmaputra,2010,148.0,tiger_population_06-18,False,False,148.0
+North Eastern Hills and Brahmaputra Flood Plains,North East Hills and Brahmaputra,2014,201.0,tiger_population_06-18,False,False,201.0
+North Eastern Hills and Brahmaputra Flood Plains,North East Hills and Brahmaputra,2018,219.0,tiger_population_06-18,False,False,219.0
+North Eastern Hills and Brahmaputra Flood Plains,Northern West Bengal,2006,10.0,tiger_population_06-18,False,False,10.0
+North Eastern Hills and Brahmaputra Flood Plains,Northern West Bengal,2010,,tiger_population_06-18,False,True,6.5
+North Eastern Hills and Brahmaputra Flood Plains,Northern West Bengal,2014,3.0,tiger_population_06-18,False,False,3.0
+North Eastern Hills and Brahmaputra Flood Plains,Northern West Bengal,2018,0.0,tiger_population_06-18,False,False,0.0
+Shivalik Gangetic,Shivalik Gangetic,2006,297.0,tiger_population_06-18,False,False,297.0
+Shivalik Gangetic,Shivalik Gangetic,2010,353.0,tiger_population_06-18,False,False,353.0
+Shivalik Gangetic,Shivalik Gangetic,2014,485.0,tiger_population_06-18,False,False,485.0
+Shivalik Gangetic,Shivalik Gangetic,2018,646.0,tiger_population_06-18,False,False,646.0
+Western Ghats,Western Ghats,2006,412.0,tiger_population_06-18,False,False,412.0
+Western Ghats,Western Ghats,2010,534.0,tiger_population_06-18,False,False,534.0
+Western Ghats,Western Ghats,2014,776.0,tiger_population_06-18,False,False,776.0
+Western Ghats,Western Ghats,2018,981.0,tiger_population_06-18,False,False,981.0

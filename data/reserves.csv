@@ -1,0 +1,59 @@
+reserve_name,state,latitude,longitude,core_area_km2,buffer_area_km2
+Corbett,Uttarakhand,29.53,78.78,821,466
+Ranthambore,Rajasthan,26.02,76.5,392,1342
+Bandhavgarh,Madhya Pradesh,23.72,80.96,716,820
+Kanha,Madhya Pradesh,22.33,80.62,917,1134
+Kaziranga,Assam,26.58,93.17,430,500
+Sundarbans,West Bengal,21.94,88.9,1700,885
+Sariska,Rajasthan,27.31,76.39,881,332
+Panna,Madhya Pradesh,24.72,80.03,576,662
+Tadoba-Andhari,Maharashtra,20.22,79.35,625,1101
+Periyar,Kerala,9.47,77.23,881,44
+Nagarjunsagar-Srisailam,Andhra Pradesh,15.85,78.87,3568,2595
+Namdapha,Arunachal Pradesh,27.49,96.39,1808,177
+Dudhwa,Uttar Pradesh,28.6,80.6,884,1535
+Satpura,Madhya Pradesh,22.52,77.9,524,794
+Melghat,Maharashtra,21.38,77.02,1501,1425
+Indravati,Chhattisgarh,19.17,80.97,1258,1540
+Buxa,West Bengal,26.73,89.55,391,367
+Manas,Assam,26.66,91.0,500,2310
+Simlipal,Odisha,21.83,86.33,846,1936
+Valmiki,Bihar,27.33,83.95,899,798
+Pench-MP,Madhya Pradesh,21.73,79.3,293,465
+Sathyamangalam,Tamil Nadu,11.5,77.23,793,614
+Mudumalai,Tamil Nadu,11.57,76.56,321,367
+Anamalai,Tamil Nadu,10.48,76.95,958,521
+Kalakad-Mundanthurai,Tamil Nadu,8.63,77.32,895,706
+Bhadra,Karnataka,13.82,75.63,493,571
+Dandeli-Anshi,Karnataka,15.13,74.58,475,382
+Bandipur,Karnataka,11.67,76.63,872,584
+Nagarhole,Karnataka,11.93,76.1,644,562
+BRT Hills,Karnataka,11.98,77.15,539,110
+Achanakmar,Chhattisgarh,22.47,81.73,551,663
+Udanti-Sitanadi,Chhattisgarh,20.5,81.85,851,990
+Palamau,Jharkhand,23.45,84.07,414,610
+Dampa,Mizoram,23.7,92.38,500,488
+Pakke,Arunachal Pradesh,26.98,92.98,683,515
+Nameri,Assam,26.95,92.78,200,144
+Orang,Assam,26.57,92.27,78,413
+Kamlang,Arunachal Pradesh,27.62,96.35,783,0
+Sahyadri,Maharashtra,17.05,73.7,600,565
+Navegaon-Nagzira,Maharashtra,21.1,79.95,653,451
+Bor,Maharashtra,21.15,78.65,121,684
+Pilibhit,Uttar Pradesh,28.63,80.12,602,191
+Amrabad,Telangana,16.37,79.28,2166,445
+Kawal,Telangana,19.15,79.1,893,123
+Sanjay-Dubri,Madhya Pradesh,23.22,81.72,831,502
+Mukundra Hills,Rajasthan,24.63,75.9,417,342
+Rajaji,Uttarakhand,30.25,78.1,820,299
+Parambikulam,Kerala,10.43,76.8,391,252
+Pench-MH,Maharashtra,21.67,79.45,257,483
+Ratapani,Madhya Pradesh,23.17,77.58,824,688
+Guru Ghasidas,Chhattisgarh,23.65,82.18,1440,478
+Sunabeda,Odisha,19.77,82.55,600,318
+Tipeshwar,Maharashtra,19.88,79.95,149,249
+Trishna,Tripura,23.55,91.57,163,331
+Srivilliputhur-Megamalai,Tamil Nadu,9.6,77.63,1249,587
+Ramgarh Vishdhari,Rajasthan,25.28,75.28,252,769
+Dholpur-Karauli,Rajasthan,26.7,77.05,599,444
+Ranipur,Uttar Pradesh,25.05,80.58,230,299

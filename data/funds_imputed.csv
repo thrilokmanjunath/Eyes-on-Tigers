@@ -1,0 +1,148 @@
+state,year,funds_central_share,funds_release_amount,funds_state_allocation,funds_total_including_tpf,funds_total_including_tpf_ci_lower,funds_total_including_tpf_ci_upper,funds_total_including_tpf_ci_method
+Andhra Pradesh,2011,,,,154.406,-3.99,242.79,t-distribution
+Andhra Pradesh,2012,,,,404.8904,-3.99,242.79,t-distribution
+Andhra Pradesh,2013,,,211.78,211.7804,-3.99,242.79,t-distribution
+Andhra Pradesh,2014,,,184.14,184.141,-3.99,242.79,t-distribution
+Andhra Pradesh,2015,,,0.0,0.0,-3.99,242.79,t-distribution
+Andhra Pradesh,2018,217.992,,,0.0,-3.99,242.79,t-distribution
+Andhra Pradesh,2019,114.48,,,0.0,-3.99,242.79,t-distribution
+Andhra Pradesh,2020,266.51,,,0.0,-3.99,242.79,t-distribution
+Arunachal Pradesh,2011,,,,236.7857,340.94,601.68,t-distribution
+Arunachal Pradesh,2012,,,,420.0872,340.94,601.68,t-distribution
+Arunachal Pradesh,2013,,,,737.0405000000001,340.94,601.68,t-distribution
+Arunachal Pradesh,2014,,,,658.4259999999999,340.94,601.68,t-distribution
+Arunachal Pradesh,2015,,,,429.539,340.94,601.68,t-distribution
+Arunachal Pradesh,2018,929.762,,,429.539,340.94,601.68,t-distribution
+Arunachal Pradesh,2019,846.31,,,429.539,340.94,601.68,t-distribution
+Arunachal Pradesh,2020,803.76,,,429.539,340.94,601.68,t-distribution
+Assam,2011,,,,947.5088,822.79,1512.31,t-distribution
+Assam,2012,,,,373.894,822.79,1512.31,t-distribution
+Assam,2013,,,,807.9825,822.79,1512.31,t-distribution
+Assam,2014,,,,1509.389,822.79,1512.31,t-distribution
+Assam,2015,,,,1425.413,822.79,1512.31,t-distribution
+Assam,2018,1919.624,,,1425.413,822.79,1512.31,t-distribution
+Assam,2019,2198.76,,,1425.413,822.79,1512.31,t-distribution
+Assam,2020,2513.9,,,1425.413,822.79,1512.31,t-distribution
+Bihar,2011,,,,172.193,204.74,290.09,t-distribution
+Bihar,2012,,,,311.064,204.74,290.09,t-distribution
+Bihar,2013,,,,284.773,204.74,290.09,t-distribution
+Bihar,2014,,,,317.096,204.74,290.09,t-distribution
+Bihar,2015,,,,223.55051,204.74,290.09,t-distribution
+Bihar,2018,570.897,,,223.55051,204.74,290.09,t-distribution
+Bihar,2019,562.84,,,223.55051,204.74,290.09,t-distribution
+Bihar,2020,628.89,,,223.55051,204.74,290.09,t-distribution
+Chhattisgarh,2011,,,,702.726,399.35,595.76,t-distribution
+Chhattisgarh,2012,,,,532.4624,399.35,595.76,t-distribution
+Chhattisgarh,2013,,,,539.6379999999999,399.35,595.76,t-distribution
+Chhattisgarh,2014,,,,609.827,399.35,595.76,t-distribution
+Chhattisgarh,2015,,,,398.945,399.35,595.76,t-distribution
+Chhattisgarh,2018,536.135,,,398.945,399.35,595.76,t-distribution
+Chhattisgarh,2019,358.53,,,398.945,399.35,595.76,t-distribution
+Chhattisgarh,2020,471.16,,,398.945,399.35,595.76,t-distribution
+Jharkhand,2011,,,,156.3465,45.98,180.51,t-distribution
+Jharkhand,2012,,,,107.44023,45.98,180.51,t-distribution
+Jharkhand,2013,,,,251.168,45.98,180.51,t-distribution
+Jharkhand,2014,,,,199.08,45.98,180.51,t-distribution
+Jharkhand,2015,,,,47.9847,45.98,180.51,t-distribution
+Jharkhand,2018,367.0,,,47.9847,45.98,180.51,t-distribution
+Jharkhand,2019,1432.07,,,47.9847,45.98,180.51,t-distribution
+Jharkhand,2020,128.453,,,47.9847,45.98,180.51,t-distribution
+Karnataka,2011,,,,1830.6496,1209.33,1747.62,t-distribution
+Karnataka,2012,,,,933.5311,1209.33,1747.62,t-distribution
+Karnataka,2013,,,,1985.0698,1209.33,1747.62,t-distribution
+Karnataka,2014,,,,1565.7726,1209.33,1747.62,t-distribution
+Karnataka,2015,,,,1378.1944,1209.33,1747.62,t-distribution
+Karnataka,2018,2267.428,,,1378.1944,1209.33,1747.62,t-distribution
+Karnataka,2019,2252.03,,,1378.1944,1209.33,1747.62,t-distribution
+Karnataka,2020,2118.005,,,1378.1944,1209.33,1747.62,t-distribution
+Kerala,2011,,,,429.77,395.44,486.62,t-distribution
+Kerala,2012,,,,514.835,395.44,486.62,t-distribution
+Kerala,2013,,,,479.672,395.44,486.62,t-distribution
+Kerala,2014,,,,517.5351,395.44,486.62,t-distribution
+Kerala,2015,,,,396.601,395.44,486.62,t-distribution
+Kerala,2018,653.03,,,396.601,395.44,486.62,t-distribution
+Kerala,2019,607.0699999999999,,,396.601,395.44,486.62,t-distribution
+Kerala,2020,402.88,,,396.601,395.44,486.62,t-distribution
+Madhya Pradesh,2011,,,,5162.7112,1578.04,4859.55,t-distribution
+Madhya Pradesh,2012,,,,5772.3638,1578.04,4859.55,t-distribution
+Madhya Pradesh,2013,,,,4796.138,1578.04,4859.55,t-distribution
+Madhya Pradesh,2014,,,,4335.1182,1578.04,4859.55,t-distribution
+Madhya Pradesh,2015,,,,1421.007,1578.04,4859.55,t-distribution
+Madhya Pradesh,2018,5343.889999999999,,,1421.007,1578.04,4859.55,t-distribution
+Madhya Pradesh,2019,3501.91,,,1421.007,1578.04,4859.55,t-distribution
+Madhya Pradesh,2020,2551.26,,,1421.007,1578.04,4859.55,t-distribution
+Maharashtra,2011,,,,3341.5235,2198.12,3875.29,t-distribution
+Maharashtra,2012,,,,616.3911499999999,2198.12,3875.29,t-distribution
+Maharashtra,2013,,,,3021.6923,2198.12,3875.29,t-distribution
+Maharashtra,2014,,,,3078.9788,2198.12,3875.29,t-distribution
+Maharashtra,2015,,,,3558.7655,2198.12,3875.29,t-distribution
+Maharashtra,2018,10322.75,,,3558.7655,2198.12,3875.29,t-distribution
+Maharashtra,2019,6318.36,,,3558.7655,2198.12,3875.29,t-distribution
+Maharashtra,2020,2436.84,,,3558.7655,2198.12,3875.29,t-distribution
+Mizoram,2011,,,,225.288,159.45,318.4,t-distribution
+Mizoram,2012,,,,468.31,159.45,318.4,t-distribution
+Mizoram,2013,,,,233.68,159.45,318.4,t-distribution
+Mizoram,2014,,,,232.1896,159.45,318.4,t-distribution
+Mizoram,2015,,,,187.9845,159.45,318.4,t-distribution
+Mizoram,2018,318.842,,,187.9845,159.45,318.4,t-distribution
+Mizoram,2019,337.7,,,187.9845,159.45,318.4,t-distribution
+Mizoram,2020,161.53,,,187.9845,159.45,318.4,t-distribution
+Nagaland,2018,24.8625,,,,,,none
+Nagaland,2019,0.0,,,,,,none
+Nagaland,2020,0.0,,,,,,none
+Odisha,2011,,,,555.0761,398.33,690.07,t-distribution
+Odisha,2012,,,,163.756,398.33,690.07,t-distribution
+Odisha,2013,,,,748.193,398.33,690.07,t-distribution
+Odisha,2014,,,,707.3885,398.33,690.07,t-distribution
+Odisha,2015,,,,544.80052,398.33,690.07,t-distribution
+Odisha,2018,1022.322,,,544.80052,398.33,690.07,t-distribution
+Odisha,2019,1303.32,,,544.80052,398.33,690.07,t-distribution
+Odisha,2020,680.0699999999999,,,544.80052,398.33,690.07,t-distribution
+Rajasthan,2011,,,,67.21,272.8,2309.46,t-distribution
+Rajasthan,2012,,,,4090.567,272.8,2309.46,t-distribution
+Rajasthan,2013,,,,512.848,272.8,2309.46,t-distribution
+Rajasthan,2014,,,,627.192,272.8,2309.46,t-distribution
+Rajasthan,2015,,,,1257.808,272.8,2309.46,t-distribution
+Rajasthan,2018,791.8299999999999,276.69,,1257.808,272.8,2309.46,t-distribution
+Rajasthan,2019,1203.19,368.5,,1257.808,272.8,2309.46,t-distribution
+Rajasthan,2020,1008.89,262.28,,1257.808,272.8,2309.46,t-distribution
+Tamil Nadu,2011,,,,605.9639999999999,727.07,1890.59,t-distribution
+Tamil Nadu,2012,,,,445.983,727.07,1890.59,t-distribution
+Tamil Nadu,2013,,,,753.675,727.07,1890.59,t-distribution
+Tamil Nadu,2014,,,,864.316,727.07,1890.59,t-distribution
+Tamil Nadu,2015,,,,1950.17128,727.07,1890.59,t-distribution
+Tamil Nadu,2018,2366.823,,,1950.17128,727.07,1890.59,t-distribution
+Tamil Nadu,2019,1586.91,,,1950.17128,727.07,1890.59,t-distribution
+Tamil Nadu,2020,1336.14,,,1950.17128,727.07,1890.59,t-distribution
+Telangana,2011,,,,0.0,4.57,81.44,t-distribution
+Telangana,2012,,,,0.0,4.57,81.44,t-distribution
+Telangana,2013,,,,0.0,4.57,81.44,t-distribution
+Telangana,2014,,,,0.0,4.57,81.44,t-distribution
+Telangana,2015,,,,86.0144,4.57,81.44,t-distribution
+Telangana,2018,1115.65,,,86.0144,4.57,81.44,t-distribution
+Telangana,2019,444.9500000000001,,,86.0144,4.57,81.44,t-distribution
+Telangana,2020,351.97,,,86.0144,4.57,81.44,t-distribution
+Uttar Pradesh,2011,,,,446.1258,460.59,680.7,t-distribution
+Uttar Pradesh,2012,,,,334.055,460.59,680.7,t-distribution
+Uttar Pradesh,2013,,,,525.876,460.59,680.7,t-distribution
+Uttar Pradesh,2014,,,,760.9283,460.59,680.7,t-distribution
+Uttar Pradesh,2015,,,,624.5463,460.59,680.7,t-distribution
+Uttar Pradesh,2018,685.336,,,624.5463,460.59,680.7,t-distribution
+Uttar Pradesh,2019,1242.49,,,624.5463,460.59,680.7,t-distribution
+Uttar Pradesh,2020,923.29,,,624.5463,460.59,680.7,t-distribution
+Uttarakhand,2011,,,,399.76,338.92,677.4,t-distribution
+Uttarakhand,2012,,,,160.69,338.92,677.4,t-distribution
+Uttarakhand,2013,,,,377.689,338.92,677.4,t-distribution
+Uttarakhand,2014,,,,391.1941,338.92,677.4,t-distribution
+Uttarakhand,2015,,,,683.9853800000001,338.92,677.4,t-distribution
+Uttarakhand,2018,1417.26,,,683.9853800000001,338.92,677.4,t-distribution
+Uttarakhand,2019,2289.1800000000003,,,683.9853800000001,338.92,677.4,t-distribution
+Uttarakhand,2020,1671.3,,,683.9853800000001,338.92,677.4,t-distribution
+West Bengal,2011,,,,157.66,277.7,475.63,t-distribution
+West Bengal,2012,,,,404.916,277.7,475.63,t-distribution
+West Bengal,2013,,,,347.81,277.7,475.63,t-distribution
+West Bengal,2014,,,,596.8825,277.7,475.63,t-distribution
+West Bengal,2015,,,,376.50781,277.7,475.63,t-distribution
+West Bengal,2018,719.01,,,376.50781,277.7,475.63,t-distribution
+West Bengal,2019,758.47,,,376.50781,277.7,475.63,t-distribution
+West Bengal,2020,333.96,,,376.50781,277.7,475.63,t-distribution

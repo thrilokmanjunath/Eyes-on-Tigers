@@ -1,0 +1,190 @@
+state,year,deaths,year_coverage,is_partial_year,source_file,has_conflict,was_imputed,deaths_imputed
+Andhra Pradesh,2015,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Andhra Pradesh,2016,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Andhra Pradesh,2017,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Andhra Pradesh,2018,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Andhra Pradesh,2019,0.0,1.0,False,humandeaths_19-23,False,False,0.0
+Andhra Pradesh,2020,0.0,1.0,False,humandeaths_19-23,False,False,0.0
+Andhra Pradesh,2021,0.0,1.0,False,humandeaths_19-23,False,False,0.0
+Andhra Pradesh,2022,0.0,1.0,False,humandeaths_19-23,False,False,0.0
+Andhra Pradesh,2023,0.0,1.0,False,humandeaths_19-23,False,True,0.0
+Arunachal Pradesh,2015,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Arunachal Pradesh,2016,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Arunachal Pradesh,2017,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Arunachal Pradesh,2018,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Arunachal Pradesh,2019,0.0,1.0,False,humandeaths_19-23,False,False,0.0
+Arunachal Pradesh,2020,0.0,1.0,False,humandeaths_19-23,False,False,0.0
+Arunachal Pradesh,2021,0.0,1.0,False,humandeaths_19-23,False,False,0.0
+Arunachal Pradesh,2022,0.0,1.0,False,humandeaths_19-23,False,False,0.0
+Arunachal Pradesh,2023,0.0,1.0,False,humandeaths_19-23,False,True,0.0
+Assam,2015,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Assam,2016,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Assam,2017,1.0,1.0,False,tigerattacks_onhumans_15-18,False,False,1.0
+Assam,2018,0.0,1.0,False,tigerattacks_onhumans_15-18,True,False,0.0
+Assam,2019,0.0,1.0,False,tigerattacks_18-22,False,False,0.0
+Assam,2020,0.0,1.0,False,tigerattacks_18-22,False,False,0.0
+Assam,2021,0.0,1.0,False,tigerattacks_18-22,False,False,0.0
+Assam,2022,0.0,1.0,False,tigerattacks_18-22,False,False,0.0
+Assam,2023,0.0,1.0,False,humandeaths_20-24,False,False,0.0
+Assam,2024,4.0,1.0,False,humandeaths_20-24,False,False,4.0
+Bihar,2015,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Bihar,2016,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Bihar,2017,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Bihar,2018,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Bihar,2019,0.0,1.0,False,tigerattacks_18-22,False,False,0.0
+Bihar,2020,1.0,1.0,False,tigerattacks_20-22,False,False,1.0
+Bihar,2021,4.0,1.0,False,tigerattacks_20-22,True,False,4.0
+Bihar,2022,2.0,1.0,False,tigerattacks_20-22,True,False,2.0
+Bihar,2023,1.0,1.0,False,humandeaths_20-24,False,False,1.0
+Bihar,2024,2.0,1.0,False,humandeaths_20-24,True,False,2.0
+Chhattisgarh,2015,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Chhattisgarh,2016,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Chhattisgarh,2017,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Chhattisgarh,2018,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Chhattisgarh,2019,0.0,1.0,False,humandeaths_19-24,False,False,0.0
+Chhattisgarh,2020,0.0,1.0,False,humandeaths_20-24,False,False,0.0
+Chhattisgarh,2021,0.0,1.0,False,humandeaths_20-24,False,False,0.0
+Chhattisgarh,2022,0.0,1.0,False,humandeaths_20-24,False,False,0.0
+Chhattisgarh,2023,3.0,1.0,False,humandeaths_20-24,False,False,3.0
+Chhattisgarh,2024,0.0,1.0,False,humandeaths_20-24,False,False,0.0
+Delhi,2015,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Delhi,2016,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Delhi,2017,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Delhi,2018,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Jharkhand,2015,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Jharkhand,2016,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Jharkhand,2017,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Jharkhand,2018,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Jharkhand,2019,0.0,1.0,False,humandeaths_19-23,False,False,0.0
+Jharkhand,2020,0.0,1.0,False,humandeaths_19-23,False,False,0.0
+Jharkhand,2021,0.0,1.0,False,humandeaths_19-23,False,False,0.0
+Jharkhand,2022,0.0,1.0,False,humandeaths_19-23,False,False,0.0
+Jharkhand,2023,0.0,1.0,False,humandeaths_19-23,False,True,0.0
+Karnataka,2015,1.0,1.0,False,tigerattacks_onhumans_15-18,False,False,1.0
+Karnataka,2016,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Karnataka,2017,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Karnataka,2018,0.0,1.0,False,tigerattacks_onhumans_15-18,True,False,0.0
+Karnataka,2019,4.0,1.0,False,tigerattacks_18-22,False,False,4.0
+Karnataka,2020,0.0,1.0,False,tigerattacks_20-22,False,False,0.0
+Karnataka,2021,1.0,1.0,False,tigerattacks_20-22,True,False,1.0
+Karnataka,2022,1.0,1.0,False,tigerattacks_20-22,False,False,1.0
+Karnataka,2023,8.0,1.0,False,humandeaths_20-24,True,False,8.0
+Karnataka,2024,2.0,1.0,False,humandeaths_20-24,True,False,2.0
+Kerala,2015,3.0,1.0,False,tigerattacks_onhumans_15-18,False,False,3.0
+Kerala,2016,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Kerala,2017,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Kerala,2018,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Kerala,2019,0.0,1.0,False,tigerattacks_18-22,False,False,0.0
+Kerala,2020,1.0,1.0,False,tigerattacks_20-22,True,False,1.0
+Kerala,2021,0.0,1.0,False,tigerattacks_20-22,True,False,0.0
+Kerala,2022,0.0,1.0,False,tigerattacks_20-22,True,False,0.0
+Kerala,2023,1.0,1.0,False,humandeaths_20-24,True,False,1.0
+Kerala,2024,1.0,1.0,False,humandeaths_20-24,True,False,1.0
+Madhya Pradesh,2015,5.0,1.0,False,tigerattacks_onhumans_15-18,False,False,5.0
+Madhya Pradesh,2016,5.0,1.0,False,tigerattacks_onhumans_15-18,False,False,5.0
+Madhya Pradesh,2017,0.0,1.0,False,tigerattacks_onhumans_15-18,True,False,0.0
+Madhya Pradesh,2018,0.0,1.0,False,tigerattacks_onhumans_15-18,True,False,0.0
+Madhya Pradesh,2019,1.0,1.0,False,tigerattacks_18-22,False,False,1.0
+Madhya Pradesh,2020,6.0,1.0,False,tigerattacks_20-22,True,False,6.0
+Madhya Pradesh,2021,0.0,1.0,False,tigerattacks_20-22,True,False,0.0
+Madhya Pradesh,2022,1.0,1.0,False,tigerattacks_20-22,True,False,1.0
+Madhya Pradesh,2023,10.0,1.0,False,humandeaths_20-24,True,False,10.0
+Madhya Pradesh,2024,6.0,1.0,False,humandeaths_20-24,False,False,6.0
+Maharashtra,2015,1.0,1.0,False,tigerattacks_onhumans_15-18,False,False,1.0
+Maharashtra,2016,2.0,1.0,False,tigerattacks_onhumans_15-18,False,False,2.0
+Maharashtra,2017,5.0,1.0,False,tigerattacks_onhumans_15-18,True,False,5.0
+Maharashtra,2018,1.0,1.0,False,tigerattacks_onhumans_15-18,True,False,1.0
+Maharashtra,2019,26.0,1.0,False,tigerattacks_18-22,False,False,26.0
+Maharashtra,2020,25.0,1.0,False,tigerattacks_20-22,False,False,25.0
+Maharashtra,2021,32.0,1.0,False,tigerattacks_20-22,True,False,32.0
+Maharashtra,2022,84.0,1.0,False,tigerattacks_20-22,True,False,84.0
+Maharashtra,2023,37.0,1.0,False,humandeaths_20-24,True,False,37.0
+Maharashtra,2024,42.0,1.0,False,humandeaths_20-24,True,False,42.0
+Mizoram,2015,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Mizoram,2016,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Mizoram,2017,1.0,1.0,False,tigerattacks_onhumans_15-18,False,False,1.0
+Mizoram,2018,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Mizoram,2019,0.0,1.0,False,humandeaths_19-23,False,False,0.0
+Mizoram,2020,0.0,1.0,False,humandeaths_19-23,False,False,0.0
+Mizoram,2021,0.0,1.0,False,humandeaths_19-23,False,False,0.0
+Mizoram,2022,0.0,1.0,False,humandeaths_19-23,False,False,0.0
+Mizoram,2023,0.0,1.0,False,humandeaths_19-23,False,True,0.0
+Nagaland,2015,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Nagaland,2016,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Nagaland,2017,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Nagaland,2018,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Odisha,2015,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Odisha,2016,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Odisha,2017,0.0,1.0,False,tigerattacks_onhumans_15-18|humandeaths_17-21,False,False,0.0
+Odisha,2018,2.0,1.0,False,tigerattacks_onhumans_15-18|tigerattacks_18-22,False,False,2.0
+Odisha,2019,0.0,1.0,False,tigerattacks_18-22,False,False,0.0
+Odisha,2020,0.0,1.0,False,tigerattacks_18-22,False,False,0.0
+Odisha,2021,0.0,1.0,False,tigerattacks_18-22,False,False,0.0
+Odisha,2022,0.0,1.0,False,tigerattacks_18-22,False,False,0.0
+Odisha,2023,0.0,1.0,False,humandeaths_19-23,False,True,0.0
+Rajasthan,2015,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Rajasthan,2016,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Rajasthan,2017,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Rajasthan,2018,0.0,1.0,False,tigerattacks_onhumans_15-18,True,False,0.0
+Rajasthan,2019,5.0,1.0,False,tigerattacks_18-22,False,False,5.0
+Rajasthan,2020,0.0,1.0,False,tigerattacks_18-22,False,False,0.0
+Rajasthan,2021,0.0,1.0,False,tigerattacks_18-22,False,False,0.0
+Rajasthan,2022,0.0,1.0,False,tigerattacks_18-22,False,False,0.0
+Rajasthan,2023,0.0,1.0,False,humandeaths_19-24,False,True,0.0
+Rajasthan,2024,0.0,0.5,True,humandeaths_19-24,False,False,0.0
+Sundarbans,2018,0.0,1.0,False,sundarbans_18-23,False,False,0.0
+Sundarbans,2019,2.0,1.0,False,sundarbans_18-23,False,False,2.0
+Sundarbans,2020,4.0,1.0,False,sundarbans_18-23,False,False,4.0
+Sundarbans,2021,5.0,1.0,False,sundarbans_18-23,False,False,5.0
+Sundarbans,2022,1.0,1.0,False,sundarbans_18-23,False,False,1.0
+Sundarbans,2023,0.0,1.0,False,sundarbans_18-23,False,False,0.0
+Tamil Nadu,2015,1.0,1.0,False,tigerattacks_onhumans_15-18,False,False,1.0
+Tamil Nadu,2016,1.0,1.0,False,tigerattacks_onhumans_15-18,False,False,1.0
+Tamil Nadu,2017,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Tamil Nadu,2018,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Tamil Nadu,2019,0.0,1.0,False,tigerattacks_18-22,False,False,0.0
+Tamil Nadu,2020,1.0,1.0,False,tigerattacks_20-22,False,False,1.0
+Tamil Nadu,2021,3.0,1.0,False,tigerattacks_20-22,True,False,3.0
+Tamil Nadu,2022,0.0,1.0,False,tigerattacks_20-22,False,False,0.0
+Tamil Nadu,2023,1.0,1.0,False,humandeaths_20-24,False,False,1.0
+Tamil Nadu,2024,0.0,1.0,False,humandeaths_20-24,False,False,0.0
+Telangana,2015,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Telangana,2016,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Telangana,2017,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Telangana,2018,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Telangana,2019,0.0,1.0,False,tigerattacks_18-22,False,False,0.0
+Telangana,2020,2.0,1.0,False,tigerattacks_20-22,False,False,2.0
+Telangana,2021,0.0,1.0,False,tigerattacks_20-22,False,False,0.0
+Telangana,2022,0.0,1.0,False,tigerattacks_20-22,False,False,0.0
+Telangana,2023,0.0,1.0,False,humandeaths_20-24,False,False,0.0
+Telangana,2024,1.0,1.0,False,humandeaths_20-24,True,False,1.0
+Uttar Pradesh,2015,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+Uttar Pradesh,2016,5.0,1.0,False,tigerattacks_onhumans_15-18,False,False,5.0
+Uttar Pradesh,2017,12.0,1.0,False,tigerattacks_onhumans_15-18,True,False,12.0
+Uttar Pradesh,2018,0.0,1.0,False,tigerattacks_onhumans_15-18,True,False,0.0
+Uttar Pradesh,2019,8.0,1.0,False,tigerattacks_18-22,False,False,8.0
+Uttar Pradesh,2020,4.0,1.0,False,tigerattacks_20-22,False,False,4.0
+Uttar Pradesh,2021,11.0,1.0,False,tigerattacks_20-22,True,False,11.0
+Uttar Pradesh,2022,14.0,1.0,False,tigerattacks_20-22,True,False,14.0
+Uttar Pradesh,2023,25.0,1.0,False,humandeaths_20-24,False,False,25.0
+Uttar Pradesh,2024,10.0,1.0,False,humandeaths_20-24,False,False,10.0
+Uttarakhand,2015,1.0,1.0,False,tigerattacks_onhumans_15-18,False,False,1.0
+Uttarakhand,2016,2.0,1.0,False,tigerattacks_onhumans_15-18,False,False,2.0
+Uttarakhand,2017,2.0,1.0,False,tigerattacks_onhumans_15-18,True,False,2.0
+Uttarakhand,2018,0.0,1.0,False,tigerattacks_onhumans_15-18,True,False,0.0
+Uttarakhand,2019,2.0,1.0,False,tigerattacks_18-22,True,False,2.0
+Uttarakhand,2020,0.0,1.0,False,tigerattacks_20-22,False,False,0.0
+Uttarakhand,2021,1.0,1.0,False,tigerattacks_20-22,False,False,1.0
+Uttarakhand,2022,3.0,1.0,False,tigerattacks_20-22,False,False,3.0
+Uttarakhand,2023,0.0,1.0,False,humandeaths_20-24,False,False,0.0
+Uttarakhand,2024,5.0,1.0,False,humandeaths_20-24,True,False,5.0
+West Bengal,2015,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+West Bengal,2016,0.0,1.0,False,tigerattacks_onhumans_15-18,False,False,0.0
+West Bengal,2017,0.0,1.0,False,tigerattacks_onhumans_15-18,True,False,0.0
+West Bengal,2018,0.0,1.0,False,tigerattacks_onhumans_15-18,True,False,0.0
+West Bengal,2019,3.0,1.0,False,tigerattacks_18-22,False,False,3.0
+West Bengal,2020,4.0,1.0,False,tigerattacks_20-22,True,False,4.0
+West Bengal,2021,5.0,1.0,False,tigerattacks_20-22,True,False,5.0
+West Bengal,2022,1.0,1.0,False,tigerattacks_20-22,False,False,1.0
+West Bengal,2023,0.0,1.0,False,humandeaths_20-24,False,False,0.0
+West Bengal,2024,1.0,1.0,False,humandeaths_20-24,False,False,1.0

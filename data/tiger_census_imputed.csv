@@ -1,0 +1,99 @@
+landscape,state,year,population,source_file,has_conflict,was_imputed,population_imputed,imputation_method,population_ci_lower,population_ci_upper,population_ci_method
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Andhra Pradesh,2006,95,tiger_population_06-18,FALSE,FALSE,95,none,48.03,90.37,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Andhra Pradesh,2010,72,tiger_population_06-18,FALSE,FALSE,72,none,48.03,90.37,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Andhra Pradesh,2014,68,tiger_population_06-18,FALSE,FALSE,68,none,48.03,90.37,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Andhra Pradesh,2018,48,tiger_population_06-18,FALSE,FALSE,48,none,48.03,90.37,t-distribution
+Unknown,Andhra Pradesh,2022,63,tiger_population_2022,FALSE,FALSE,63,none,48.03,90.37,t-distribution
+North Eastern Hills and Brahmaputra Flood Plains,Arunachal Pradesh,2006,14,tiger_population_06-18,FALSE,FALSE,14,none,9.4,31,t-distribution
+North Eastern Hills and Brahmaputra Flood Plains,Arunachal Pradesh,2010,21,tiger_population_06-18,FALSE,TRUE,21,linear,9.4,31,t-distribution
+North Eastern Hills and Brahmaputra Flood Plains,Arunachal Pradesh,2014,28,tiger_population_06-18,FALSE,FALSE,28,none,9.4,31,t-distribution
+North Eastern Hills and Brahmaputra Flood Plains,Arunachal Pradesh,2018,29,tiger_population_06-18,FALSE,FALSE,29,none,9.4,31,t-distribution
+Unknown,Arunachal Pradesh,2022,9,tiger_population_2022,FALSE,FALSE,9,none,9.4,31,t-distribution
+North Eastern Hills and Brahmaputra Flood Plains,Assam,2006,70,tiger_population_06-18,FALSE,FALSE,70,none,86.08,233.52,t-distribution
+North Eastern Hills and Brahmaputra Flood Plains,Assam,2010,143,tiger_population_06-18,FALSE,FALSE,143,none,86.08,233.52,t-distribution
+North Eastern Hills and Brahmaputra Flood Plains,Assam,2014,167,tiger_population_06-18,FALSE,FALSE,167,none,86.08,233.52,t-distribution
+North Eastern Hills and Brahmaputra Flood Plains,Assam,2018,190,tiger_population_06-18,FALSE,FALSE,190,none,86.08,233.52,t-distribution
+Unknown,Assam,2022,229,tiger_population_2022,FALSE,FALSE,229,none,86.08,233.52,t-distribution
+Shivalik-Gangetic Plain Landscape Complex,Bihar,2006,10,tiger_population_06-18,FALSE,FALSE,10,none,3.03,49.37,t-distribution
+Shivalik-Gangetic Plain Landscape Complex,Bihar,2010,8,tiger_population_06-18,FALSE,FALSE,8,none,3.03,49.37,t-distribution
+Shivalik-Gangetic Plain Landscape Complex,Bihar,2014,28,tiger_population_06-18,FALSE,FALSE,28,none,3.03,49.37,t-distribution
+Shivalik-Gangetic Plain Landscape Complex,Bihar,2018,31,tiger_population_06-18,FALSE,FALSE,31,none,3.03,49.37,t-distribution
+Unknown,Bihar,2022,54,tiger_population_2022,FALSE,FALSE,54,none,3.03,49.37,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Chhattisgarh,2006,26,tiger_population_06-18,FALSE,FALSE,26,none,12.55,41.05,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Chhattisgarh,2010,26,tiger_population_06-18,FALSE,FALSE,26,none,12.55,41.05,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Chhattisgarh,2014,46,tiger_population_06-18,FALSE,FALSE,46,none,12.55,41.05,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Chhattisgarh,2018,19,tiger_population_06-18,FALSE,FALSE,19,none,12.55,41.05,t-distribution
+Unknown,Chhattisgarh,2022,17,tiger_population_2022,FALSE,FALSE,17,none,12.55,41.05,t-distribution
+Western Ghats Landscape Complex,Goa,2006,21,tiger_population_06-18,FALSE,TRUE,5,spline,-0.12,18.12,t-distribution
+Western Ghats Landscape Complex,Goa,2010,11,tiger_population_06-18,FALSE,TRUE,5,spline,-0.12,18.12,t-distribution
+Western Ghats Landscape Complex,Goa,2014,5,tiger_population_06-18,FALSE,FALSE,5,none,-0.12,18.12,t-distribution
+Western Ghats Landscape Complex,Goa,2018,3,tiger_population_06-18,FALSE,FALSE,3,none,-0.12,18.12,t-distribution
+Unknown,Goa,2022,5,tiger_population_2022,FALSE,FALSE,5,none,-0.12,18.12,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Jharkhand,2006,41,tiger_population_06-18,FALSE,TRUE,10,spline,-8.55,32.55,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Jharkhand,2010,10,tiger_population_06-18,FALSE,FALSE,10,none,-8.55,32.55,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Jharkhand,2014,3,tiger_population_06-18,FALSE,FALSE,3,none,-8.55,32.55,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Jharkhand,2018,5,tiger_population_06-18,FALSE,FALSE,5,none,-8.55,32.55,t-distribution
+Unknown,Jharkhand,2022,1,tiger_population_2022,FALSE,FALSE,1,none,-8.55,32.55,t-distribution
+Western Ghats Landscape Complex,Karnataka,2006,290,tiger_population_06-18,FALSE,FALSE,290,none,261.14,572.06,t-distribution
+Western Ghats Landscape Complex,Karnataka,2010,300,tiger_population_06-18,FALSE,FALSE,300,none,261.14,572.06,t-distribution
+Western Ghats Landscape Complex,Karnataka,2014,406,tiger_population_06-18,FALSE,FALSE,406,none,261.14,572.06,t-distribution
+Western Ghats Landscape Complex,Karnataka,2018,524,tiger_population_06-18,FALSE,FALSE,524,none,261.14,572.06,t-distribution
+Unknown,Karnataka,2022,563,tiger_population_2022,FALSE,FALSE,563,none,261.14,572.06,t-distribution
+Western Ghats Landscape Complex,Kerala,2006,46,tiger_population_06-18,FALSE,FALSE,46,none,41.12,221.28,t-distribution
+Western Ghats Landscape Complex,Kerala,2010,71,tiger_population_06-18,FALSE,FALSE,71,none,41.12,221.28,t-distribution
+Western Ghats Landscape Complex,Kerala,2014,136,tiger_population_06-18,FALSE,FALSE,136,none,41.12,221.28,t-distribution
+Western Ghats Landscape Complex,Kerala,2018,190,tiger_population_06-18,FALSE,FALSE,190,none,41.12,221.28,t-distribution
+Unknown,Kerala,2022,213,tiger_population_2022,FALSE,FALSE,213,none,41.12,221.28,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Madhya Pradesh,2006,300,tiger_population_06-18,FALSE,FALSE,300,none,159.77,710.63,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Madhya Pradesh,2010,257,tiger_population_06-18,FALSE,FALSE,257,none,159.77,710.63,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Madhya Pradesh,2014,308,tiger_population_06-18,FALSE,FALSE,308,none,159.77,710.63,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Madhya Pradesh,2018,526,tiger_population_06-18,FALSE,FALSE,526,none,159.77,710.63,t-distribution
+Unknown,Madhya Pradesh,2022,785,tiger_population_2022,FALSE,FALSE,785,none,159.77,710.63,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Maharashtra,2006,103,tiger_population_06-18,FALSE,FALSE,103,none,75.81,411.39,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Maharashtra,2010,169,tiger_population_06-18,FALSE,FALSE,169,none,75.81,411.39,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Maharashtra,2014,190,tiger_population_06-18,FALSE,FALSE,190,none,75.81,411.39,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Maharashtra,2018,312,tiger_population_06-18,FALSE,FALSE,312,none,75.81,411.39,t-distribution
+Unknown,Maharashtra,2022,444,tiger_population_2022,FALSE,FALSE,444,none,75.81,411.39,t-distribution
+North Eastern Hills and Brahmaputra Flood Plains,Mizoram,2006,6,tiger_population_06-18,FALSE,FALSE,6,none,-0.71,7.71,t-distribution
+North Eastern Hills and Brahmaputra Flood Plains,Mizoram,2010,5,tiger_population_06-18,FALSE,FALSE,5,none,-0.71,7.71,t-distribution
+North Eastern Hills and Brahmaputra Flood Plains,Mizoram,2014,3,tiger_population_06-18,FALSE,FALSE,3,none,-0.71,7.71,t-distribution
+North Eastern Hills and Brahmaputra Flood Plains,Mizoram,2018,0,tiger_population_06-18,FALSE,FALSE,0,none,-0.71,7.71,t-distribution
+North Eastern Hills and Brahmaputra Flood Plains,Nagaland,2006,0,tiger_population_06-18,FALSE,TRUE,0,kalman,0,0,constant
+North Eastern Hills and Brahmaputra Flood Plains,Nagaland,2010,0,tiger_population_06-18,FALSE,TRUE,0,kalman,0,0,constant
+North Eastern Hills and Brahmaputra Flood Plains,Nagaland,2014,0,tiger_population_06-18,FALSE,TRUE,0,kalman,0,0,constant
+North Eastern Hills and Brahmaputra Flood Plains,Nagaland,2018,0,tiger_population_06-18,FALSE,FALSE,0,none,0,0,constant
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Odisha,2006,45,tiger_population_06-18,FALSE,FALSE,45,none,19.23,41.97,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Odisha,2010,32,tiger_population_06-18,FALSE,FALSE,32,none,19.23,41.97,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Odisha,2014,28,tiger_population_06-18,FALSE,FALSE,28,none,19.23,41.97,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Odisha,2018,28,tiger_population_06-18,FALSE,FALSE,28,none,19.23,41.97,t-distribution
+Unknown,Odisha,2022,20,tiger_population_2022,FALSE,FALSE,20,none,19.23,41.97,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Rajasthan,2006,32,tiger_population_06-18,FALSE,FALSE,32,none,24.42,83.58,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Rajasthan,2010,36,tiger_population_06-18,FALSE,FALSE,36,none,24.42,83.58,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Rajasthan,2014,45,tiger_population_06-18,FALSE,FALSE,45,none,24.42,83.58,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Rajasthan,2018,69,tiger_population_06-18,FALSE,FALSE,69,none,24.42,83.58,t-distribution
+Unknown,Rajasthan,2022,88,tiger_population_2022,FALSE,FALSE,88,none,24.42,83.58,t-distribution
+North Eastern Hills and Brahmaputra Flood Plains,Sundarbans,2006,70,tiger_population_06-18,FALSE,TRUE,70,spline,62.5,89.5,t-distribution
+North Eastern Hills and Brahmaputra Flood Plains,Sundarbans,2010,70,tiger_population_06-18,FALSE,FALSE,70,none,62.5,89.5,t-distribution
+North Eastern Hills and Brahmaputra Flood Plains,Sundarbans,2014,76,tiger_population_06-18,FALSE,FALSE,76,none,62.5,89.5,t-distribution
+North Eastern Hills and Brahmaputra Flood Plains,Sundarbans,2018,88,tiger_population_06-18,FALSE,FALSE,88,none,62.5,89.5,t-distribution
+Western Ghats Landscape Complex,Tamil Nadu,2006,76,tiger_population_06-18,FALSE,FALSE,76,none,95.46,319.74,t-distribution
+Western Ghats Landscape Complex,Tamil Nadu,2010,163,tiger_population_06-18,FALSE,FALSE,163,none,95.46,319.74,t-distribution
+Western Ghats Landscape Complex,Tamil Nadu,2014,229,tiger_population_06-18,FALSE,FALSE,229,none,95.46,319.74,t-distribution
+Western Ghats Landscape Complex,Tamil Nadu,2018,264,tiger_population_06-18,FALSE,FALSE,264,none,95.46,319.74,t-distribution
+Unknown,Tamil Nadu,2022,306,tiger_population_2022,FALSE,FALSE,306,none,95.46,319.74,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Telangana,2006,166,tiger_population_06-18,FALSE,TRUE,26,kalman,12.06,205.94,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Telangana,2010,166,tiger_population_06-18,FALSE,TRUE,26,kalman,12.06,205.94,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Telangana,2014,166,tiger_population_06-18,FALSE,TRUE,26,kalman,12.06,205.94,t-distribution
+Central Indian Landscape Complex and Eastern Ghats Landscape Complex,Telangana,2018,26,tiger_population_06-18,FALSE,FALSE,26,none,12.06,205.94,t-distribution
+Unknown,Telangana,2022,21,tiger_population_2022,FALSE,FALSE,21,none,12.06,205.94,t-distribution
+Shivalik-Gangetic Plain Landscape Complex,Uttar Pradesh,2006,109,tiger_population_06-18,FALSE,FALSE,109,none,91.75,197.05,t-distribution
+Shivalik-Gangetic Plain Landscape Complex,Uttar Pradesh,2010,118,tiger_population_06-18,FALSE,FALSE,118,none,91.75,197.05,t-distribution
+Shivalik-Gangetic Plain Landscape Complex,Uttar Pradesh,2014,117,tiger_population_06-18,FALSE,FALSE,117,none,91.75,197.05,t-distribution
+Shivalik-Gangetic Plain Landscape Complex,Uttar Pradesh,2018,173,tiger_population_06-18,FALSE,FALSE,173,none,91.75,197.05,t-distribution
+Unknown,Uttar Pradesh,2022,205,tiger_population_2022,FALSE,FALSE,205,none,91.75,197.05,t-distribution
+Shivalik-Gangetic Plain Landscape Complex,Uttarakhand,2006,178,tiger_population_06-18,FALSE,FALSE,178,none,155.67,543.13,t-distribution
+Shivalik-Gangetic Plain Landscape Complex,Uttarakhand,2010,227,tiger_population_06-18,FALSE,FALSE,227,none,155.67,543.13,t-distribution
+Shivalik-Gangetic Plain Landscape Complex,Uttarakhand,2014,340,tiger_population_06-18,FALSE,FALSE,340,none,155.67,543.13,t-distribution
+Shivalik-Gangetic Plain Landscape Complex,Uttarakhand,2018,442,tiger_population_06-18,FALSE,FALSE,442,none,155.67,543.13,t-distribution
+Unknown,Uttarakhand,2022,560,tiger_population_2022,FALSE,FALSE,560,none,155.67,543.13,t-distribution
+Unknown,West Bengal,2022,103,tiger_population_2022,FALSE,FALSE,103,none,,,none
