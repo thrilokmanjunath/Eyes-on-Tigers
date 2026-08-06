@@ -1,6 +1,6 @@
 # Eyes on Tigers (EoT) 🐯
 
-**Author:** Thrilok Manjunath (thrilokmanjunath@gmail.com)
+**Author:** Thrilok Manjunath (thrilokmanjunath@gmail.com) (https://eyes-on-tigers-7mtepkv8ruq3aaulgr7ves.streamlit.app)
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 [![Python Version](https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg)]()
