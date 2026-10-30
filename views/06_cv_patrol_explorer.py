@@ -26,6 +26,9 @@ patrols_df = load_synthetic_patrols()
 tsi_df = load_tsi_scores()
 proxies_df = load_yearly_proxies()
 
+# Synthetic Data Transparency Banner
+st.warning("⚠️ **SYNTHETIC DATA — Generated for demonstration and not representative of actual patrol operations.**")
+
 if not reserves_df.empty and not patrols_df.empty and not tsi_df.empty:
     tab_cv, tab_patrol, tab_tsi = st.tabs([
         "📸  Module A: Computer Vision", 
@@ -105,6 +108,7 @@ if not reserves_df.empty and not patrols_df.empty and not tsi_df.empty:
 
     # ── TAB 2: PATROL OPTIMIZATION ──
     with tab_patrol:
+        st.warning("⚠️ **SYNTHETIC DATA — Generated for demonstration and not representative of actual patrol operations.**")
         st.markdown(section_header("Module C: Anti-Poaching Patrol Simulator", 
             "Spatial Poisson Point Process Threat Hotspots and Ranger Trajectory Overlay"), 
             unsafe_allow_html=True)

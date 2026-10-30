@@ -7,7 +7,12 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)]()
 [![Architecture](https://img.shields.io/badge/architecture-AHP--SHAP--ProxyModeling-orange.svg)]()
 
-> **Eyes on Tigers (EoT)** is an advanced, production-grade conservation monitoring and analytics platform. It replaces subjective, sparse assessments with rigorous multi-criteria decision models, feature-augmented regression for census-gap interpolation, and spatial point process simulators for threat detection.
+> **Eyes on Tigers (EoT)** is an analytical conservation intelligence and decision-support platform designed to evaluate Project Tiger reserves. It replaces subjective assessments with rigorous multi-criteria decision models, feature-augmented regression for census-gap analysis, and spatial point process simulators for threat modeling.
+
+> ⚠️ **Data Transparency Notice**: Anti-poaching patrol routes and tactical ranger trajectories within this system are **synthetic Poisson point-process simulations** generated strictly for algorithm demonstration and coverage modeling. They do not represent live operational tactical patrol coordinates or classified NTCA ranger movements.
+
+### 🎥 Demonstration Walkthrough
+A 60-second video storyboard and recording guide is available in [`docs/SCREEN_RECORDING_SCRIPT.md`](docs/SCREEN_RECORDING_SCRIPT.md).
 
 ---
 
