@@ -4,6 +4,11 @@ Navigation controller — all pages are file-based for reliable path resolution.
 """
 import streamlit as st
 
+# Lightweight health check endpoint for automated keep-alive probes
+if st.query_params.get("health") == "check":
+    st.write({"status": "healthy", "service": "Eyes on Tigers", "version": "1.0.0"})
+    st.stop()
+
 # Check if this is a popout request for a fullscreen chart
 popout_key = st.query_params.get("popout")
 if popout_key:

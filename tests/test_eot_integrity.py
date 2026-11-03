@@ -35,3 +35,10 @@ def test_tsi_scores_bounds():
     assert "tsi_score" in tsi_df.columns, "TSI score column must be present"
     assert tsi_df["tsi_score"].between(0.0, 100.0).all(), "TSI scores must be normalized between 0 and 100"
     assert tsi_df["tsi_score"].isnull().sum() == 0, "TSI scores must not contain NaN values"
+
+def test_health_check_module():
+    from scripts.health_check import ping_endpoint
+    # Test ping with invalid host handles errors gracefully without unhandled exception
+    res = ping_endpoint("http://127.0.0.1:59999", timeout=1)
+    assert res["status"] in ("UNREACHABLE", "HTTP_ERROR", "EXCEPTION")
+    assert "latency_ms" in res

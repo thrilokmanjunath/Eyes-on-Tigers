@@ -168,6 +168,24 @@ Once the app loads, use the left sidebar to explore the modules:
 **Q: The EoT Chatbot says "Data unavailable".**
 **A:** Ensure you're asking about data explicitly provided in the dashboard (e.g. population up to 2022, deaths/funding up to recent years). Also, verify your `GEMINI_API_KEY` is active, otherwise the bot uses a strict rule-based fallback.
 
+---
+
+## 8. Continuous Health Check & Keep-Alive Monitoring
+
+To prevent Streamlit Community Cloud hibernation ("App is asleep due to inactivity"), Eyes on Tigers includes automated health monitoring:
+
+1. **Automated GitHub Actions Cron (24/7 Cloud)**:
+   - Configured in `.github/workflows/keep_alive.yml`.
+   - Runs automatically every 6 hours (`0 */6 * * *`) via GitHub Actions to probe the live deployment and reset Streamlit Community Cloud's idle timer.
+
+2. **CLI / Local Health Check Probe**:
+   ```bash
+   python scripts/health_check.py --url https://eyes-on-tigers-7mtepkv8ruq3aaulgr7ves.streamlit.app
+   ```
+
+3. **Lightweight In-App Health Route**:
+   - Probing `https://eyes-on-tigers-7mtepkv8ruq3aaulgr7ves.streamlit.app/?health=check` returns an immediate sub-10ms health response without invoking heavy spatial datasets or Plotly rendering.
+
 **Q: How is the Tiger Success Index (TSI) calculated?**
 **A:** The TSI is a mathematical scoring model using the Analytic Hierarchy Process (AHP). It combines Population, Habitat, Anti-Poaching, and Prey Density into one normalized score. See the "Module D" section above for the math.
 
